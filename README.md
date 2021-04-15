@@ -1,4 +1,4 @@
-# Hi, I'm Clyde 🇵🇭👋
+# Hi, I'm Clyde 👋
 
-an aspiring full-stack developer <br>
+✨ an aspiring full-stack developer <br><br>
 🌱 currently learning nodeJS/express
